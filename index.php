@@ -21,11 +21,7 @@ curl_close($curl);
         color: #fff;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
-    body{
-        display: grid;
-        place-content: center;
-
-    }
+  
     main{
         display: flex;
         flex-direction: column;
